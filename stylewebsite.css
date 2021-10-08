@@ -1,0 +1,12 @@
+body {
+    background-image: url('https://pbs.twimg.com/media/EtTqGF7XIAA20ve?format=jpg&name=large');
+    background-size : cover;
+  }
+  h1 {
+    color:rgb(252, 235, 0);
+    text-align: center;
+    
+    /* margin-left: 40px; */
+    font-family: Helvetica, Verdana, Arial, sans-serif;
+    
+ }
